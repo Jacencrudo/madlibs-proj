@@ -15,8 +15,7 @@ import Card from './card';
 }
 
 // things we need to fix
-// placeholder
-// gray and green number labels
+
 // content labels
 // generate btn space/card-height
 
